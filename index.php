@@ -53,52 +53,15 @@
             <nav class="navbar navbar-text navbar-expand-lg navbar-light" style="padding: 1em; text-transform: uppercase; font-size:22px;">
               <div class="container-fluid">
                 <a class="navbar-brand navlinks" href="#" style="font-size:75px;"> PLAS </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #fff; font-size: 30px; line-height:10px; font-weight:600;">
-                  --<br />--<br />--
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent" style="font-size:26px;">
-                  <center>
-                  <ul class="navbar-nav me-auto mb-2 mb-lg-0 lnav">
-                    <li class="nav-item">
-                      <a class="nav-link navlinks" aria-current="page" href="#">Ad</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link navlinks" href="#">Design</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link navlinks" href="#">Clients</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link navlinks" href="#">Shop</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link navlinks" href="#"><i>AFFE</i></a>
-                    </li>
-                    <li class="nav-item dropdown">
-                      <a class="nav-link navlinks dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Media
-                      </a>
-                      <ul class="dropdown-menu" aria-labelledby="navbarDropdown"><center>
-                        <li><a class="dropdown-item" href="#" style="font-weight:500;">Music</a></li>
-                        <li><a class="dropdown-item" href="#" style="font-weight:500;">Film</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#" style="font-weight:500;">Physical</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#" style="font-weight:500;">Social</a></li></center>
-                      </ul>
-                    </li>
-                  </ul>
-
-                </div>
               </div>
             </nav>
 
         </header>
 
         <div class="p-3 pb-md-4 mx-auto text-center" style="background:#b4ffff;">
-            <h1 class="display-4 fw-normal">Text</h1>
+            <h1 class="display-4 fw-normal">Work in Progress</h1>
             <p class="fs-5 text-muted">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium vulputate sapien nec sagittis aliquam malesuada. Sit amet purus gravida quis blandit.
+                Centralized page
             </p>
         </div>
 
